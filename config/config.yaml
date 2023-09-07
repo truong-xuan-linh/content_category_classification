@@ -1,0 +1,5 @@
+model:
+  path: ./models/freeze_clean_warnup_0.0005_0.6648_2.8259.pt
+  url: https://drive.google.com/uc?id=1gKBx1sgHhJOyLmCidCm_serwgDYG6U1g
+  theshold: 0.3
+  min_length: 50

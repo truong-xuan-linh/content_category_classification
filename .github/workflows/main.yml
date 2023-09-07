@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://truong-xuan-linh:$HF_TOKEN@huggingface.co/spaces/truong-xuan-linh/content-category-classification master
+        run: git push --force https://truong-xuan-linh:$HF_TOKEN@huggingface.co/spaces/truong-xuan-linh/content-category-classification main

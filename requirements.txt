@@ -1,0 +1,6 @@
+transformers==4.28.1
+torch==2.0.0
+gdown==4.7.1
+underthesea==6.7.0
+omegaconf==2.0.6
+streamlit==1.26.0
